@@ -1,3 +1,5 @@
+> **已迁移**：本插件已合并至统一仓库 [agent-plugins](https://github.com/dream-star-end/agent-plugins)，后续更新只在新仓进行，本仓归档保留。
+
 # fx-plugin · 汇率与数字资产 Agent 插件
 
 给 AI Agent 用的汇率工具包：**零依赖 CLI + Agent Skill**，公开接口免密钥。
